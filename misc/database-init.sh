@@ -2,12 +2,12 @@
 
 # login data
 _server_url=http://$OPENSHIFT_DIY_IP:$OPENSHIFT_DIY_PORT
-_user=admin
-_password1=admin
-_appcode=1234567890
+_user=drflax
+_password1=sambucetti
+_appcode=7894561230
 
 # new password for admin
-_password2=VerySecurePassw0rd
+_password2=Sambucetti
 
 # colections
 _collections=(
